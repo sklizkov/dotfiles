@@ -1,0 +1,44 @@
+[window]
+dimensions = { columns = 96, lines = 24 }
+padding = { x = 0, y = 0 }
+decorations = "Full"
+opacity = 1
+# blur = true
+title = ""
+dynamic_title = false
+resize_increments = true
+
+[font]
+normal = { family = "Hack Nerd Font Mono", style = "Regular" }
+size = 13.0
+offset = { x = 0, y = 6 }
+
+[selection]
+semantic_escape_chars = ",│`|:\"' ()[]{}<>\t"
+save_to_clipboard = true
+
+
+# Colors (One Dark)
+[colors.primary]
+background = '#282c34'
+foreground = '#abb2bf'
+
+[colors.normal]
+black   = '#1e2127'
+red     = '#e06c75'
+green   = '#98c379'
+yellow  = '#d19a66'
+blue    = '#61afef'
+magenta = '#c678dd'
+cyan    = '#56b6c2'
+white   = '#abb2bf'
+
+[colors.bright]
+black   = '#5c6370'
+red     = '#e06c75'
+green   = '#98c379'
+yellow  = '#d19a66'
+blue    = '#61afef'
+magenta = '#c678dd'
+cyan    = '#56b6c2'
+white   = '#ffffff'
