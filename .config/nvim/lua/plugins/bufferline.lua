@@ -1,0 +1,22 @@
+return {
+  -- { -- Bufferline
+  --   'akinsho/bufferline.nvim',
+  --   version = "*",
+  --   dependencies = 'nvim-tree/nvim-web-devicons',
+  --   opts = {
+  --     options = {
+  --       offsets = {
+  --         {
+  --           filetype = 'neo-tree',
+  --           text =  '',
+  --           text_align = 'center',
+  --           highlight = 'Directory',
+  --         },
+  --       },
+  --     },
+  --   },
+  --   init = function()
+  --     vim.opt.termguicolors = true
+  --   end
+  -- },
+}
