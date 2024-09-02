@@ -10,6 +10,7 @@ zstyle ':completion:*' list-colors ''
 
 [[ -f $ZSH/aliases.zsh ]] && source $ZSH/aliases.zsh
 
+# export STARSHIP_CONFIG=~/.config/starship/starship.toml
 eval "$(starship init zsh)"
 
 source <(fzf --zsh)
