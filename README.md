@@ -1,6 +1,6 @@
 # dotfiles
 
-[Homebrew](https://brew.sh):
+[Homebrew](https://brew.sh)
 - [starship](https://starship.rs/): `brew install starship`
 - [eza](https://github.com/eza-community/eza): `brew install eza`
 - [ccat](https://github.com/owenthereal/ccat): `brew install ccat`
@@ -13,3 +13,6 @@
 - [*tmux plugin manager](https://github.com/tmux-plugins/tpm)
 - [neovim](https://github.com/neovim/neovim): `brew install neovim`
 
+## Fonts
+- [Fira Code](https://github.com/tonsky/FiraCode)
+- [Hack Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Hack.zip)
