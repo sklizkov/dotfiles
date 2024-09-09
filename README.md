@@ -9,9 +9,13 @@
 - [ripgrep](https://github.com/BurntSushi/ripgrep): `brew install ripgrep`
 - [htop](https://github.com/htop-dev/htop): `brew install htop`
 - [Lazygit](https://github.com/jesseduffield/lazygit): `brew install lazygit`
+- [neovim](https://github.com/neovim/neovim): `brew install neovim`
 - [tmux](https://github.com/tmux/tmux): `brew install tmux`
 - [*tmux plugin manager](https://github.com/tmux-plugins/tpm)
-- [neovim](https://github.com/neovim/neovim): `brew install neovim`
+  ```
+  git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
+  ```
+
 
 ## Fonts
 - [Fira Code](https://github.com/tonsky/FiraCode)
